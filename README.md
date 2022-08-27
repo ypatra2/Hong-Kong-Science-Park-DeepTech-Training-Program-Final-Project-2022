@@ -1,4 +1,4 @@
-# VGG16_Fruit_Freshness
+# Hong Kong Science Park DeepTech Training Program Final Project 2022
  
 This project was my final submission for the Hong Kong Science Park DeepTech Training Program 2022. It is a Transfer Learning model that uses the VGG16 CNN architecture using the dataset provided below, to be able to tell apart different fruits and ascertain their freshness.
 
